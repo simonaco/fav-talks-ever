@@ -6,4 +6,9 @@ This is a list of my favourite talks
 * Introverts vs extroverts: https://www.ted.com/talks/brian_little_who_are_you_really_the_puzzle_of_personality 
 
 
+To watch:
+
+* https://www.youtube.com/playlist?list=PL65pp6Tpk692lL85jvoOAT_e9Yuzz_nwA
+
+
 

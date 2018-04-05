@@ -5,6 +5,7 @@ This is a list of my favourite talks
 * Public speaking tips: https://www.ted.com/talks/julian_treasure_5_ways_to_listen_better 
 * Introverts vs extroverts: https://www.ted.com/talks/brian_little_who_are_you_really_the_puzzle_of_personality 
 * Alex Cornell's talk about creative process: https://youtu.be/jl6uliAl8FI 
+* Asim Hussain's talk - How to hack a Node app: https://youtu.be/Wx3WlQLFa3w
 
 
 To watch:
